@@ -7,7 +7,6 @@ DB（PostgreSQL）の開発・検証を行うためのリポジトリ。
 - docker/
   - docker-compose.yml
   - postgres/
-  - mysql/
 
 ## 目的
 - DB単体での性能検証
