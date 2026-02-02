@@ -1,7 +1,7 @@
 # dev-db
 
 Amazon Linux 上の Docker を使って  
-DB（PostgreSQL / MySQL 等）の開発・検証を行うためのリポジトリ。
+DB（PostgreSQL）の開発・検証を行うためのリポジトリ。
 
 ## 構成
 - docker/
